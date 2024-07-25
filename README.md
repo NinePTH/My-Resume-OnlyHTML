@@ -1,3 +1,2 @@
-# My-Resume-Capstone-project1-
-This is my first capstone project from web development bootcamp
+# My-Resume-HTML-only
 build with pure HTML
